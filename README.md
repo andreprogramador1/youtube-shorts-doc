@@ -23,6 +23,8 @@
  ```
 
 # back
+1 - criar essa pasta na raiz do projeto: cache/videos-youtube<br>
+2 - colocar sua key gerada do youtube na variavel $KEY
  ```
 <?php
 //COLOCAR SUA API KEY DO YOUTUBE AQUI
