@@ -396,4 +396,4 @@ new Swiper('.swiper-youtube-shorts', {
 
 dependencias:
   - bootstrap
-  - swiper slider https://swiperjs.com/get-started
+  - swiper slider https://swiperjs.com/get-started - cdn https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css e https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js
