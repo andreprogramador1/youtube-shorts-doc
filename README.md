@@ -25,6 +25,9 @@
 # back
  ```
 <?php
+//COLOCAR SUA API KEY DO YOUTUBE AQUI
+$KEY = '[COLOCAR SUA KEY]';
+
 function validateScriptExecution($params)
 {
 	// Validate SQL injection
@@ -173,9 +176,6 @@ function filtrarUltimosVideosDaPlaylistCompleta($playlist_completa, $total_video
 }
 
 header('Content-Type:application/json');
-
-//COLOCAR SUA API KEY DO YOUTUBE AQUI
-$KEY = '[COLOCAR SUA KEY]';
 
 $params = $_GET;
 
