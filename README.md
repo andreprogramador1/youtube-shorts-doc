@@ -291,7 +291,6 @@ function mountYoutubeHtmlCards(videoData, channel_id) {
 
 			container.insertAdjacentHTML('afterbegin', html)
 
-			initTooltip("[data-toggle='tooltip']")
 		}
 
 		async function getYoutubeVideosByChannelIdOrPlaylistId({
