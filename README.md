@@ -3,7 +3,7 @@
 1 - gerar uma api key do youtube: https://developers.google.com/youtube/v3?hl=pt-br<br>
  1.1 - no back na variavel $KEY colocar sua key gerada:  $KEY = '[COLOCAR SUA KEY]';
 
- 2 - criar uma playlist no youtube que terão todos os shorts 
+ 2 - criar uma playlist no youtube que terão todos os shorts<br>
    2.1 - chamar essa função com o id da playlist com shorts
    
     ```
