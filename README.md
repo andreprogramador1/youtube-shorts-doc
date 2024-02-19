@@ -1,6 +1,6 @@
 ## youtube-shorts-doc
 
-1 - gerar uma api key do youtube: https://developers.google.com/youtube/v3?hl=pt-br<br>
+1 - gerar uma api key do youtube: https://developers.google.com/youtube/v3?hl=pt-br <br>https://www.youtube.com/watch?v=LLAZUTbc97I&t=15s&ab_channel=BenTech<br>
  1.1 - no back na variavel $KEY colocar sua key gerada:  $KEY = '[COLOCAR SUA KEY]';
 
  2 - criar uma playlist no youtube que terão todos os shorts<br>
