@@ -25,6 +25,7 @@
 # back
 1 - criar essa pasta na raiz do projeto: cache/videos-youtube<br>
 2 - colocar sua key gerada do youtube na variavel $KEY
+3 - criar na raiz do projeto um arquivo com este nome buscarVideosYoutube.php e jogar este código inteiro
  ```
 <?php
 //COLOCAR SUA API KEY DO YOUTUBE AQUI
